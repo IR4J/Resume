@@ -1,5 +1,6 @@
 import yfinance as yf
 #this is just common names not sure how to get stock names to symbol. 
+# you need to install yfinance or it will not work
 name2stock = {
     'TESLA': 'TSLA',
     'APPLE': 'AAPL',
